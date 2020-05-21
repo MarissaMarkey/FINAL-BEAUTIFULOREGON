@@ -1,3 +1,4 @@
+//variables
 var s=document.getElementById("sand");
 var b=document.getElementById("beach");
 var f=document.getElementById("forest");
